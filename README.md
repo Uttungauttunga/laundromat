@@ -33,4 +33,9 @@ The operation of the washing machine controller is as follows:
 6. Once the washing process starts, canceling it results in a loss of the coin, and the washing machine proceeds with the current cycle.
 
 
+#SIMULATION WAVEFORM
+8. ![image](https://github.com/Uttungauttunga/laundromat/assets/98632943/ef1f7027-c919-4c73-a73f-959d8e6064dc)
+
+
+
 Mention any contributors, libraries, or tools that were used or inspired during the development o
