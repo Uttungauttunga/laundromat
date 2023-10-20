@@ -35,7 +35,15 @@ The operation of the washing machine controller is as follows:
 
 #SIMULATION WAVEFORM
 8. ![image](https://github.com/Uttungauttunga/laundromat/assets/98632943/ef1f7027-c919-4c73-a73f-959d8e6064dc)
+Done using ncverilog simulator
 
 
+Resources used:
+1)synthesis done using genus from cadence tool suite
 
-Mention any contributors, libraries, or tools that were used or inspired during the development o
+![Screenshot from 2023-10-20 14-52-49](https://github.com/Uttungauttunga/laundromat/assets/138555663/a91f721d-c744-4142-85dc-0d739616783f)
+
+
+2)coverage done using imc from cadence tool suite
+
+![Screenshot from 2023-10-20 14-48-05](https://github.com/Uttungauttunga/laundromat/assets/138555663/397d8436-cd88-4548-93c2-ac9413689c40)
