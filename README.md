@@ -50,5 +50,5 @@ Resources used:
 
 3)Physical Design done using innovus from cadence tool suite
 
-synthesis/Physical Design/Screenshot from 2023-11-09 14-37-35.png
-synthesis/Physical Design/Screenshot from 2023-11-09 14-37-45.png
+![Physical Design](synthesis/Physical Design/Screenshot from 2023-11-09 14-37-35.png)
+![Physical Design](synthesis/Physical Design/Screenshot from 2023-11-09 14-37-45.png)
