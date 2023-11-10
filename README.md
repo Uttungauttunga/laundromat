@@ -47,3 +47,8 @@ Resources used:
 2)coverage done using imc from cadence tool suite
 
 ![Screenshot from 2023-10-20 14-48-05](https://github.com/Uttungauttunga/laundromat/assets/138555663/397d8436-cd88-4548-93c2-ac9413689c40)
+
+3)Physical Design done using innovus from cadence tool suite
+
+synthesis/Physical Design/Screenshot from 2023-11-09 14-37-35.png
+synthesis/Physical Design/Screenshot from 2023-11-09 14-37-45.png
