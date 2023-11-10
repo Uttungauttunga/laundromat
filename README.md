@@ -51,4 +51,4 @@ Resources used:
 3)Physical Design done using innovus from cadence tool suite
 
 ![Physical Design](https://github.com/Uttungauttunga/laundromat/blob/d2dd50c4e341b3b6f6fa47d9840d8b4b5abe21d3/synthesis/Physical%20Design/Screenshot%20from%202023-11-09%2014-37-45.png)
-![Physical Design](https://github.com/Uttungauttunga/laundromat/blob/d2dd50c4e341b3b6f6fa47d9840d8b4b5abe21d3/synthesis/Physical%20Design/Screenshot%20from%202023-11-09%2014-37-45.png)
+![Physical Design](https://github.com/Uttungauttunga/laundromat/blob/1fc232e89779b9e3080f3e0d386b74469721915a/synthesis/Physical%20Design/Screenshot%20from%202023-11-09%2014-37-35.png)
